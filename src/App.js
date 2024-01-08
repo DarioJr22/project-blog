@@ -13,3 +13,10 @@ function App() {
 }
 
 export default App;
+
+// TODO - Você parou aos 25:00 do 2º vídeo do nasser.
+/*  Block020
+ - Lembrar de sempre usar o compilador do SASS ao iniciar o projeto.
+
+
+*/
