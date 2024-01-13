@@ -10,10 +10,13 @@ function Header(){
             <img src={logosvg} alt={descLogo}></img>
         </div>
         <div className="search">
-
-        </div>
+        <input className='input-search' type='text' name='search' placeholder='pesquisar'/>         </div>
         <div className="menu">
-
+        <ul className='menu'>
+            <li><a className='nav-link' href='#'>Categorias</a></li>
+            <li><a className='nav-link' href='#'>About</a></li>
+            <li><a className='nav-link' href='#'>Contact</a></li>
+        </ul>
         </div>
        </header>
     )
